@@ -196,8 +196,6 @@ footer{color: white;
     We're part of Sky's Get into Tech, London Cohort - January 2021.
     <br>
     Our group consists of five software developers...in training. 
-    
-    
             <ol>
                 <li>Asia</li>
                 <li>Faridah</li>
@@ -211,13 +209,13 @@ footer{color: white;
     <div>
         Our interests include:
             <ul>
-                <li>Collaboration</li>
-                <li>Version control</li>
-                <li>YouTube videos</li>
                 <li>Python programming</li>
-                <li>JavaScript and React</li>
+                <li>Using JavaScript and React</li>
+                <li>Version control mastery</li>
+                <li>YouTube video cataloging</li>
+                <li>Exchanging gifs</li>
                 <li>Machine learning</li>
-            </ul>  
+            </ul>
     </div>
 </aside>
 <footer>For further information: girls@work.com
